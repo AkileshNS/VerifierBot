@@ -1,7 +1,7 @@
 import logging
 import pandas as pd
 
-TOKEN = "2009649095:AAEYkXs8Xpx1HPzKAooxjIfOKd4trQOtJeM"
+TOKEN = ""
 
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update
 from telegram.ext import (
