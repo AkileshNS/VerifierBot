@@ -1,0 +1,8 @@
+future>=0.16.0
+certifi
+tornado>=5.1
+cryptography
+python-telegram-bot
+pandas
+xlrd==1.2.0
+openpyxl
